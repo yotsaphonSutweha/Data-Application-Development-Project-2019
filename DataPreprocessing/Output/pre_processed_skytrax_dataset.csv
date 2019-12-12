@@ -1,0 +1,883 @@
+publish_date,overall_rating,traveller_type,recommend,seat_comfort_rating,cabin_service_rating,food_and_beverages_rating,inflight_entertainment_rating,ground_service_rating,wifi_connectivity_rating,value_for_money_rating
+2019-11-09,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-11-08,1,Family Leisure,no,1,1,1,1,1,1,1
+2019-11-07,2,Solo Leisure,no,1,3,2,1,1,2,1
+2019-11-04,10,Solo Leisure,yes,5,5,5,3,5,2,5
+2019-11-04,2,Business,no,1,3,3,3,1,2,1
+2019-11-03,1,Solo Leisure,no,3,3,3,3,1,2,1
+2019-11-03,2,Couple Leisure,no,2,3,2,2,1,1,1
+2019-11-02,1,Couple Leisure,no,1,1,1,3,1,2,1
+2019-10-31,4,Solo Leisure,no,2,4,2,2,2,2,2
+2019-10-30,1,Business,no,1,2,3,3,1,2,2
+2019-10-26,1,Business,no,1,3,2,2,1,3,1
+2019-10-25,2,Business,no,1,1,1,1,1,1,1
+2019-10-25,3,Family Leisure,no,3,4,3,3,1,2,1
+2019-10-24,10,Family Leisure,yes,5,5,5,5,5,5,5
+2019-10-24,9,Family Leisure,yes,3,5,4,4,4,2,4
+2019-10-24,10,Family Leisure,yes,5,5,5,5,5,2,5
+2019-10-23,1,Solo Leisure,no,2,4,2,1,1,2,1
+2019-10-21,2,Business,no,1,5,1,3,1,2,1
+2019-10-20,1,Couple Leisure,no,5,5,5,1,2,1,1
+2019-10-20,1,Couple Leisure,no,4,4,5,5,3,1,1
+2019-10-19,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-10-19,9,Family Leisure,yes,4,5,4,3,4,2,4
+2019-10-18,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2019-10-17,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-10-16,3,Couple Leisure,no,2,3,3,2,1,1,2
+2019-10-15,1,Solo Leisure,no,4,4,3,4,2,2,2
+2019-10-14,1,Couple Leisure,no,1,1,3,3,1,2,1
+2019-10-13,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-10-13,1,Business,no,1,1,1,1,1,1,1
+2019-10-10,2,Solo Leisure,no,3,3,3,5,1,3,1
+2019-10-08,1,Solo Leisure,no,1,5,3,3,1,2,1
+2019-10-08,10,Family Leisure,yes,3,5,5,5,5,2,5
+2019-10-06,8,Business,yes,4,3,4,5,4,4,4
+2019-10-05,3,Solo Leisure,no,3,3,3,3,3,2,3
+2019-10-02,7,Couple Leisure,yes,3,3,3,3,3,2,3
+2019-10-02,7,Couple Leisure,yes,3,4,3,3,3,2,3
+2019-09-29,1,Business,no,2,2,3,3,1,1,1
+2019-09-29,3,Business,no,5,5,4,4,4,3,3
+2019-09-27,3,Family Leisure,no,4,1,3,3,1,2,2
+2019-09-27,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2019-09-23,9,Business,yes,4,5,5,5,4,4,4
+2019-09-23,2,Family Leisure,no,1,1,3,1,4,1,2
+2019-09-23,9,Solo Leisure,yes,3,5,5,5,5,2,4
+2019-09-23,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2019-09-22,1,Family Leisure,no,1,1,1,1,1,1,1
+2019-09-21,10,Solo Leisure,yes,5,5,4,3,5,4,4
+2019-09-20,1,Couple Leisure,no,1,1,1,3,1,2,1
+2019-09-19,5,Business,no,3,3,5,3,1,2,3
+2019-09-17,3,Solo Leisure,no,3,3,4,1,3,1,1
+2019-09-17,1,Solo Leisure,no,1,1,2,4,1,2,3
+2019-09-16,1,Business,no,1,1,1,1,1,1,1
+2019-09-13,1,Solo Leisure,no,3,3,3,3,1,2,1
+2019-09-10,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-09-10,7,Couple Leisure,yes,2,5,5,5,5,4,4
+2019-09-10,1,Couple Leisure,no,1,4,3,3,1,2,1
+2019-09-09,10,Solo Leisure,yes,4,5,5,3,5,2,5
+2019-09-08,1,Family Leisure,no,3,4,3,2,1,2,1
+2019-09-08,3,Family Leisure,no,1,1,1,1,2,1,2
+2019-09-08,10,Business,yes,5,5,5,5,5,5,5
+2019-09-07,1,Family Leisure,no,3,3,3,3,1,3,1
+2019-09-04,1,Family Leisure,no,3,3,3,3,1,2,1
+2019-09-02,1,Solo Leisure,no,3,1,2,2,1,1,2
+2019-09-02,1,Family Leisure,no,1,1,1,4,1,3,1
+2019-09-01,5,Solo Leisure,no,4,3,4,5,1,2,3
+2019-08-30,3,Solo Leisure,no,4,3,2,3,1,1,1
+2019-08-27,1,Couple Leisure,no,1,1,3,3,1,2,2
+2019-08-26,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2019-08-26,10,Family Leisure,yes,4,5,4,4,5,2,4
+2019-08-26,9,Business,yes,4,5,3,3,5,2,4
+2019-08-26,2,Couple Leisure,no,4,4,3,3,2,3,1
+2019-08-24,1,Solo Leisure,no,1,1,4,1,1,1,1
+2019-08-23,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-08-23,2,Solo Leisure,no,4,3,4,3,3,2,1
+2019-08-22,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-08-22,1,Couple Leisure,no,1,1,3,3,1,2,1
+2019-08-21,2,Family Leisure,no,4,1,2,3,2,1,2
+2019-08-21,10,Family Leisure,yes,5,5,5,3,5,2,5
+2019-08-20,1,Couple Leisure,no,1,1,3,3,1,2,1
+2019-08-20,1,Business,no,1,1,1,1,1,1,1
+2019-08-18,1,Couple Leisure,no,2,2,2,2,1,1,1
+2019-08-18,1,Solo Leisure,no,1,1,1,1,2,1,1
+2019-08-18,3,Business,no,4,3,4,4,4,5,2
+2019-08-16,2,Couple Leisure,no,1,1,3,3,1,1,1
+2019-08-15,9,Family Leisure,yes,4,5,3,3,4,2,4
+2019-08-14,1,Family Leisure,no,1,3,3,3,3,2,1
+2019-08-14,5,Family Leisure,no,1,4,1,3,3,1,3
+2019-08-14,1,Family Leisure,no,1,1,1,1,1,1,1
+2019-08-13,9,Family Leisure,yes,4,5,3,3,5,4,4
+2019-08-13,1,Couple Leisure,no,1,1,3,3,1,2,1
+2019-08-13,10,Family Leisure,yes,5,5,5,3,5,2,5
+2019-08-13,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-08-12,10,Couple Leisure,yes,5,5,3,3,5,2,5
+2019-08-10,2,Business,no,1,1,1,3,3,1,1
+2019-08-10,1,Solo Leisure,no,3,5,3,3,1,2,1
+2019-08-09,5,Business,yes,1,3,3,3,2,3,2
+2019-08-09,8,Family Leisure,yes,3,5,4,4,4,2,4
+2019-08-09,1,Solo Leisure,no,1,1,2,1,1,1,1
+2019-08-09,1,Family Leisure,no,1,3,3,3,1,2,1
+2019-08-08,1,Family Leisure,no,1,2,1,3,1,2,1
+2019-08-08,3,Couple Leisure,no,1,1,3,3,3,2,3
+2019-08-08,10,Solo Leisure,yes,5,5,5,3,5,5,5
+2019-08-06,2,Family Leisure,no,5,5,3,3,1,2,1
+2019-08-05,1,Business,no,3,2,3,3,1,2,1
+2019-08-04,2,Family Leisure,no,3,3,3,4,1,3,1
+2019-08-04,1,Family Leisure,no,1,1,1,1,1,1,1
+2019-08-04,10,Solo Leisure,yes,5,5,5,5,5,4,5
+2019-08-04,4,Business,no,3,5,4,3,1,2,3
+2019-08-04,10,Couple Leisure,yes,5,5,5,3,5,2,5
+2019-08-03,1,Family Leisure,no,1,3,1,1,3,2,1
+2019-08-03,10,Couple Leisure,yes,3,3,3,3,1,2,5
+2019-08-03,1,Couple Leisure,no,3,5,2,3,1,2,1
+2019-08-03,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-08-03,5,Business,no,4,3,3,4,1,3,3
+2019-07-30,1,Family Leisure,no,1,3,3,3,1,2,1
+2019-07-28,1,Couple Leisure,no,1,3,1,3,1,2,1
+2019-07-27,1,Couple Leisure,no,1,2,1,1,2,1,1
+2019-07-24,1,Solo Leisure,no,2,3,2,3,1,1,1
+2019-07-23,1,Family Leisure,no,3,2,3,3,1,2,1
+2019-07-22,2,Solo Leisure,no,2,3,3,3,1,1,1
+2019-07-20,1,Business,no,2,4,3,3,1,1,1
+2019-07-20,3,Solo Leisure,no,4,4,4,3,3,2,2
+2019-07-20,1,Solo Leisure,no,1,4,3,4,1,1,2
+2019-07-19,1,Solo Leisure,no,2,2,3,3,1,2,1
+2019-07-19,1,Family Leisure,no,1,1,3,3,1,2,1
+2019-07-18,2,Family Leisure,no,3,4,4,3,3,2,3
+2019-07-17,5,Couple Leisure,yes,3,4,3,4,2,2,3
+2019-07-11,1,Business,no,2,4,4,3,4,2,2
+2019-07-07,2,Solo Leisure,no,2,1,1,2,1,1,2
+2019-07-07,1,Family Leisure,no,2,4,3,3,1,2,2
+2019-07-03,2,Family Leisure,no,1,1,3,2,1,1,1
+2019-07-02,6,Couple Leisure,yes,4,4,2,3,1,2,3
+2019-07-02,9,Business,yes,4,5,4,5,5,5,5
+2019-06-30,1,Family Leisure,no,1,1,1,1,1,1,1
+2019-06-28,1,Family Leisure,no,1,1,3,3,1,2,1
+2019-06-27,1,Business,no,4,3,1,3,1,2,1
+2019-06-27,10,Couple Leisure,yes,5,5,3,3,5,2,5
+2019-06-27,1,Couple Leisure,no,2,4,4,1,3,2,2
+2019-06-26,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-06-24,4,Business,no,1,1,3,4,1,3,1
+2019-06-21,5,Solo Leisure,no,5,2,3,3,2,4,4
+2019-06-20,1,Family Leisure,no,1,1,1,1,1,1,1
+2019-06-19,1,Family Leisure,no,2,1,1,2,1,1,3
+2019-06-19,1,Family Leisure,no,1,1,1,3,1,2,1
+2019-06-18,10,Solo Leisure,yes,5,5,5,3,5,2,5
+2019-06-18,1,Solo Leisure,no,1,2,3,3,1,1,1
+2019-06-16,5,Solo Leisure,no,4,4,4,4,5,3,3
+2019-06-15,1,Business,no,1,1,3,3,1,2,1
+2019-06-14,9,Family Leisure,yes,3,3,3,3,5,5,5
+2019-06-13,5,Family Leisure,yes,3,3,3,4,1,2,3
+2019-06-13,8,Family Leisure,yes,5,5,5,5,5,5,5
+2019-06-13,3,Family Leisure,yes,5,2,3,5,5,5,3
+2019-06-12,1,Business,no,1,1,1,1,1,1,1
+2019-06-11,9,Solo Leisure,yes,3,5,4,4,5,5,5
+2019-06-10,1,Family Leisure,no,3,3,3,3,1,2,1
+2019-06-10,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-06-09,1,Family Leisure,no,2,3,3,3,1,1,1
+2019-06-09,1,Family Leisure,no,1,1,3,3,1,2,1
+2019-06-09,1,Couple Leisure,no,2,2,2,2,1,2,1
+2019-06-09,4,Business,no,3,3,3,3,1,2,3
+2019-06-09,1,Business,no,1,1,1,1,1,1,1
+2019-06-06,8,Couple Leisure,yes,4,5,5,5,5,2,4
+2019-06-05,7,Couple Leisure,yes,4,3,2,4,5,2,3
+2019-06-04,1,Couple Leisure,no,2,4,3,5,1,2,1
+2019-06-03,1,Couple Leisure,no,1,1,3,3,1,2,1
+2019-06-03,1,Business,no,1,4,1,4,1,2,1
+2019-06-02,1,Solo Leisure,no,2,4,4,3,1,1,1
+2019-06-02,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-06-02,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-06-01,1,Solo Leisure,no,5,5,3,5,1,3,1
+2019-05-30,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-05-29,1,Solo Leisure,no,1,4,2,1,1,2,1
+2019-05-29,4,Couple Leisure,no,2,2,2,4,1,2,1
+2019-05-29,3,Solo Leisure,no,1,1,1,2,1,1,1
+2019-05-28,10,Solo Leisure,yes,5,5,3,3,5,2,5
+2019-05-28,1,Solo Leisure,no,1,3,2,3,1,1,1
+2019-05-28,2,Business,no,3,3,3,3,1,1,1
+2019-05-28,5,Business,no,2,5,4,4,5,4,3
+2019-05-26,2,Business,no,3,3,3,3,1,2,1
+2019-05-25,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-05-24,4,Family Leisure,no,4,2,3,3,1,2,2
+2019-05-22,1,Business,no,3,4,3,3,2,3,1
+2019-05-22,10,Couple Leisure,yes,5,5,5,5,5,5,5
+2019-05-21,2,Family Leisure,no,2,4,3,4,1,2,1
+2019-05-20,2,Couple Leisure,no,3,5,4,5,1,4,1
+2019-05-20,8,Solo Leisure,yes,3,4,4,4,4,2,4
+2019-05-20,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-05-18,3,Couple Leisure,no,3,2,3,3,2,2,3
+2019-05-17,1,Family Leisure,no,5,1,1,5,5,2,1
+2019-05-17,1,Business,no,2,3,2,3,1,2,1
+2019-05-16,1,Business,no,1,1,1,1,1,1,1
+2019-05-13,1,Family Leisure,no,1,3,2,2,3,1,1
+2019-05-11,1,Business,no,3,3,3,3,1,3,2
+2019-05-11,1,Business,no,1,1,3,3,1,1,1
+2019-05-11,1,Solo Leisure,no,1,3,3,3,1,2,1
+2019-05-11,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-05-11,1,Family Leisure,no,2,3,3,3,1,2,1
+2019-05-10,3,Business,no,1,1,1,1,1,1,1
+2019-05-10,3,Business,no,2,3,1,3,4,2,1
+2019-05-09,1,Couple Leisure,no,2,1,2,4,1,1,3
+2019-05-08,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-05-06,2,Solo Leisure,no,1,1,1,1,1,2,1
+2019-05-03,1,Family Leisure,no,1,3,1,1,1,1,1
+2019-05-02,3,Solo Leisure,yes,4,4,4,4,4,4,4
+2019-05-02,10,Family Leisure,yes,5,5,5,3,5,2,5
+2019-05-02,2,Family Leisure,no,3,3,3,3,1,2,1
+2019-05-02,6,Family Leisure,yes,4,5,4,3,4,2,4
+2019-04-30,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-04-30,1,Couple Leisure,no,3,3,3,3,1,2,1
+2019-04-28,5,Business,yes,4,5,3,5,5,5,1
+2019-04-28,2,Family Leisure,no,2,4,2,3,3,2,1
+2019-04-28,6,Solo Leisure,yes,3,2,2,5,4,4,3
+2019-04-26,1,Solo Leisure,no,1,1,1,1,1,2,1
+2019-04-24,7,Solo Leisure,yes,2,4,3,4,4,2,4
+2019-04-22,5,Couple Leisure,yes,3,1,3,3,5,5,5
+2019-04-21,1,Couple Leisure,no,3,2,2,4,1,1,1
+2019-04-21,9,Business,yes,4,5,4,4,5,5,4
+2019-04-21,1,Solo Leisure,no,1,1,3,3,1,2,1
+2019-04-21,8,Solo Leisure,yes,4,5,5,3,5,4,4
+2019-04-21,1,Business,no,1,1,3,3,1,2,1
+2019-04-20,1,Solo Leisure,no,2,2,1,2,1,1,1
+2019-04-17,1,Couple Leisure,no,1,3,2,2,1,1,1
+2019-04-17,1,Solo Leisure,no,1,2,3,3,1,2,2
+2019-04-16,2,Business,no,4,4,2,3,4,2,1
+2019-04-15,6,Solo Leisure,yes,4,3,5,5,4,4,3
+2019-04-14,10,Family Leisure,yes,5,5,5,5,5,4,5
+2019-04-14,2,Couple Leisure,no,3,3,2,2,1,2,1
+2019-04-12,1,Couple Leisure,no,2,4,3,4,1,2,1
+2019-04-11,1,Couple Leisure,no,2,3,3,3,1,2,1
+2019-04-10,1,Business,no,3,3,3,3,1,2,1
+2019-04-07,7,Business,yes,3,4,2,4,4,4,3
+2019-04-03,2,Solo Leisure,no,2,2,3,3,1,2,1
+2019-04-01,1,Business,no,1,3,3,3,1,1,1
+2019-04-01,10,Family Leisure,yes,5,5,4,3,5,2,5
+2019-03-31,10,Family Leisure,yes,5,5,3,3,4,2,5
+2019-03-30,7,Solo Leisure,yes,2,5,3,5,3,4,4
+2019-03-29,8,Couple Leisure,yes,3,5,3,3,5,2,4
+2019-03-28,1,Family Leisure,no,1,1,3,3,1,2,1
+2019-03-28,8,Family Leisure,yes,4,5,4,4,3,5,4
+2019-03-26,5,Couple Leisure,no,2,3,3,2,4,2,2
+2019-03-24,3,Family Leisure,no,2,4,3,1,1,1,2
+2019-03-24,1,Solo Leisure,no,2,1,3,3,2,1,2
+2019-03-23,6,Couple Leisure,no,4,4,4,4,2,2,3
+2019-03-22,1,Solo Leisure,no,2,1,1,2,1,1,1
+2019-03-21,1,Business,no,1,1,2,1,2,3,1
+2019-03-21,4,Solo Leisure,no,3,3,3,3,3,2,3
+2019-03-20,2,Couple Leisure,no,2,1,1,1,1,1,1
+2019-03-19,1,Business,no,3,3,3,3,1,2,1
+2019-03-19,1,Solo Leisure,no,1,1,2,2,1,2,1
+2019-03-18,5,Family Leisure,no,4,4,3,3,3,2,3
+2019-03-17,2,Solo Leisure,no,3,3,1,1,1,2,1
+2019-03-16,9,Couple Leisure,yes,3,3,3,3,3,3,3
+2019-03-16,4,Solo Leisure,no,1,2,2,3,1,2,1
+2019-03-16,1,Solo Leisure,no,2,1,1,1,1,1,1
+2019-03-14,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-03-12,1,Solo Leisure,no,1,3,1,1,1,1,2
+2019-03-12,2,Solo Leisure,no,2,2,3,1,1,3,1
+2019-03-08,2,Solo Leisure,no,1,1,1,3,1,2,1
+2019-03-07,2,Couple Leisure,no,4,4,3,3,3,2,1
+2019-03-06,1,Solo Leisure,no,1,5,3,3,1,2,2
+2019-03-05,1,Family Leisure,no,1,1,3,1,1,2,1
+2019-03-05,8,Solo Leisure,yes,3,3,3,5,5,3,4
+2019-03-01,3,Couple Leisure,no,3,1,3,3,4,2,1
+2019-02-28,1,Couple Leisure,no,2,3,3,3,1,1,1
+2019-02-26,1,Solo Leisure,no,2,5,2,1,3,4,1
+2019-02-21,8,Solo Leisure,yes,4,4,5,3,4,2,5
+2019-02-21,10,Family Leisure,yes,5,5,5,5,5,5,5
+2019-02-21,3,Solo Leisure,no,3,4,1,4,1,2,3
+2019-02-20,1,Solo Leisure,no,2,4,3,5,1,3,3
+2019-02-20,2,Business,no,5,5,3,1,1,1,1
+2019-02-20,2,Business,no,1,4,2,4,4,4,1
+2019-02-19,9,Solo Leisure,yes,3,5,5,4,5,2,5
+2019-02-18,4,Solo Leisure,no,1,3,3,1,3,1,2
+2019-02-18,7,Solo Leisure,yes,3,4,4,5,4,1,5
+2019-02-18,9,Solo Leisure,yes,5,5,4,5,4,4,5
+2019-02-18,7,Solo Leisure,yes,4,5,4,4,2,4,5
+2019-02-16,1,Couple Leisure,no,1,1,1,1,1,1,1
+2019-02-15,10,Solo Leisure,yes,3,4,2,3,4,3,5
+2019-02-14,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-02-14,1,Solo Leisure,no,1,1,1,3,1,2,1
+2019-02-13,1,Couple Leisure,no,3,4,4,4,1,2,1
+2019-02-13,4,Solo Leisure,no,1,2,3,3,2,3,3
+2019-02-13,1,Solo Leisure,no,1,1,1,3,1,2,1
+2019-02-13,1,Couple Leisure,no,1,2,2,1,3,2,1
+2019-02-12,10,Couple Leisure,yes,3,5,3,5,4,3,5
+2019-02-10,1,Solo Leisure,no,1,1,1,1,1,1,1
+2019-02-09,1,Business,no,1,1,3,3,1,2,1
+2019-02-08,1,Couple Leisure,no,1,2,1,3,1,2,1
+2019-02-07,10,Business,yes,5,5,5,5,5,5,5
+2019-02-06,1,Family Leisure,no,1,1,3,3,1,2,1
+2019-02-06,1,Solo Leisure,no,1,1,2,3,1,2,3
+2019-02-04,1,Couple Leisure,no,1,1,3,3,1,1,1
+2019-02-01,2,Business,no,1,1,3,3,2,2,1
+2019-02-01,2,Business,no,3,3,3,4,1,2,3
+2019-01-29,10,Business,yes,3,5,3,3,5,2,5
+2019-01-28,6,Business,yes,3,4,4,4,3,4,2
+2019-01-28,8,Solo Leisure,yes,4,5,4,3,4,2,5
+2019-01-27,2,Solo Leisure,no,3,4,1,2,2,1,2
+2019-01-26,1,Couple Leisure,no,2,1,1,1,1,3,1
+2019-01-26,1,Business,no,3,3,3,3,1,2,1
+2019-01-24,1,Solo Leisure,no,3,3,3,3,5,2,1
+2018-12-30,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-12-27,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-12-23,4,Solo Leisure,no,3,4,3,3,2,2,3
+2018-12-22,2,Solo Leisure,no,3,1,1,1,1,1,1
+2018-12-21,1,Couple Leisure,no,1,1,3,3,1,2,1
+2018-12-21,1,Solo Leisure,no,3,4,4,3,1,2,2
+2018-12-21,1,Couple Leisure,no,2,2,2,1,1,1,1
+2018-12-21,1,Couple Leisure,no,1,1,1,3,2,2,1
+2018-12-20,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-12-18,10,Business,yes,5,5,3,3,5,2,5
+2018-12-14,2,Family Leisure,no,3,1,1,2,1,2,2
+2018-12-14,5,Family Leisure,yes,5,1,5,5,3,5,5
+2018-12-13,1,Business,no,3,3,3,3,1,2,1
+2018-12-13,8,Family Leisure,yes,4,4,4,5,4,2,5
+2018-12-13,8,Couple Leisure,yes,4,5,5,5,4,2,5
+2018-12-11,1,Business,no,1,1,1,3,1,2,1
+2018-12-10,1,Couple Leisure,no,2,5,3,2,3,2,2
+2018-12-10,2,Solo Leisure,no,3,1,3,3,1,2,1
+2018-12-09,1,Business,no,1,1,1,2,1,1,1
+2018-12-02,10,Solo Leisure,yes,5,5,3,3,5,2,5
+2018-12-01,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-12-01,1,Family Leisure,no,2,2,3,1,1,1,2
+2018-11-30,3,Couple Leisure,no,5,4,2,4,1,3,2
+2018-11-29,1,Business,no,3,3,2,3,1,2,1
+2018-11-29,2,Couple Leisure,no,2,1,1,1,4,1,1
+2018-11-28,1,Solo Leisure,no,1,3,3,3,1,3,2
+2018-11-27,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-11-27,1,Solo Leisure,no,3,1,3,1,4,5,1
+2018-11-26,2,Solo Leisure,no,2,3,2,1,1,2,1
+2018-11-25,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-11-25,1,Couple Leisure,no,1,1,2,3,2,1,1
+2018-11-23,10,Family Leisure,yes,4,5,4,4,5,4,5
+2018-11-21,8,Couple Leisure,yes,4,5,4,5,4,2,4
+2018-11-21,1,Solo Leisure,no,3,3,3,4,3,2,1
+2018-11-21,2,Solo Leisure,no,3,4,2,2,2,2,2
+2018-11-21,3,Solo Leisure,no,2,4,1,3,1,2,2
+2018-11-20,1,Business,no,1,1,1,1,1,1,1
+2018-11-19,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-11-18,3,Solo Leisure,no,2,4,1,1,4,2,1
+2018-11-18,2,Couple Leisure,no,2,2,2,4,2,4,2
+2018-11-18,1,Family Leisure,no,1,3,3,3,1,2,1
+2018-11-18,3,Business,no,1,1,3,3,1,2,1
+2018-11-18,1,Couple Leisure,no,1,1,1,2,1,2,1
+2018-11-17,10,Solo Leisure,yes,5,5,3,3,5,2,5
+2018-11-17,1,Family Leisure,no,1,1,3,3,1,2,1
+2018-11-17,1,Couple Leisure,no,1,1,2,4,1,1,1
+2018-11-17,1,Solo Leisure,no,3,1,3,1,1,1,1
+2018-11-16,1,Family Leisure,no,3,4,3,3,1,3,1
+2018-11-15,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-11-15,1,Business,no,1,1,1,1,1,1,1
+2018-11-15,1,Business,no,1,1,1,1,1,1,1
+2018-11-13,1,Solo Leisure,no,2,3,2,2,2,1,1
+2018-11-11,5,Solo Leisure,no,2,4,1,1,3,2,2
+2018-11-09,9,Couple Leisure,yes,5,5,4,4,5,3,5
+2018-11-08,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-11-08,1,Solo Leisure,no,1,2,2,3,2,2,1
+2018-11-06,1,Family Leisure,no,5,1,2,5,1,2,5
+2018-11-06,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-11-06,2,Solo Leisure,no,1,3,2,3,1,3,2
+2018-11-05,1,Business,no,1,3,1,1,3,3,1
+2018-11-04,8,Solo Leisure,yes,5,4,4,5,4,2,3
+2018-11-03,7,Solo Leisure,yes,5,4,4,3,1,5,3
+2018-11-02,9,Couple Leisure,yes,4,5,5,3,2,5,4
+2018-11-01,1,Business,no,1,1,3,3,1,2,1
+2018-10-30,1,Couple Leisure,no,1,3,3,1,1,1,1
+2018-10-29,4,Business,no,1,1,3,3,2,1,2
+2018-10-28,10,Family Leisure,yes,4,5,5,5,5,5,5
+2018-10-28,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-10-24,3,Business,no,1,2,3,3,1,2,2
+2018-10-24,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-10-24,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-10-23,1,Business,no,4,1,1,4,4,4,1
+2018-10-23,9,Business,yes,4,5,5,3,5,4,5
+2018-10-22,1,Couple Leisure,no,1,1,3,3,1,2,1
+2018-10-22,1,Solo Leisure,no,3,2,3,3,1,2,2
+2018-10-21,3,Solo Leisure,no,5,2,1,3,4,2,2
+2018-10-21,8,Solo Leisure,yes,3,1,2,4,3,4,5
+2018-10-19,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-10-19,1,Business,no,1,4,4,3,3,2,3
+2018-10-16,1,Family Leisure,no,1,1,1,3,1,2,1
+2018-10-15,2,Couple Leisure,no,4,4,5,5,1,2,1
+2018-10-13,6,Business,yes,3,3,2,3,3,4,3
+2018-10-13,7,Business,yes,4,4,4,5,2,5,4
+2018-10-12,1,Solo Leisure,no,3,1,1,4,1,4,2
+2018-10-11,2,Business,no,1,2,3,3,1,2,2
+2018-10-10,2,Solo Leisure,no,3,4,3,3,1,1,1
+2018-10-10,5,Business,no,1,1,3,3,3,2,3
+2018-10-10,2,Couple Leisure,no,3,1,1,3,1,2,1
+2018-10-10,1,Business,no,1,1,3,1,1,1,1
+2018-10-07,2,Business,no,2,4,3,3,1,2,3
+2018-10-04,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-10-02,1,Solo Leisure,no,5,1,5,5,1,2,1
+2018-10-02,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-09-28,1,Business,no,1,1,3,3,1,2,1
+2018-09-27,1,Couple Leisure,no,2,3,2,1,2,1,1
+2018-09-27,1,Business,no,2,2,2,3,1,2,1
+2018-09-26,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-09-22,1,Business,no,1,1,1,2,1,3,1
+2018-09-19,3,Solo Leisure,no,4,4,3,4,2,4,3
+2018-09-17,9,Family Leisure,yes,5,3,4,4,4,5,4
+2018-09-13,8,Solo Leisure,yes,3,4,2,5,3,4,4
+2018-09-12,2,Solo Leisure,no,3,3,3,3,1,2,1
+2018-09-07,1,Solo Leisure,no,3,1,3,3,1,2,1
+2018-09-07,4,Family Leisure,no,4,5,4,5,1,2,3
+2018-09-07,3,Couple Leisure,no,3,1,1,3,1,3,2
+2018-09-06,1,Family Leisure,no,1,1,1,3,1,2,1
+2018-09-05,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-09-02,1,Solo Leisure,no,3,3,3,3,1,2,1
+2018-09-01,1,Solo Leisure,no,1,3,3,2,1,1,1
+2018-08-31,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2018-08-30,10,Couple Leisure,yes,4,5,3,4,5,4,4
+2018-08-29,5,Business,no,5,5,4,3,1,2,4
+2018-08-27,1,Family Leisure,no,2,2,3,3,1,2,1
+2018-08-26,1,Couple Leisure,no,3,3,3,3,1,2,1
+2018-08-25,6,Business,yes,4,4,4,5,1,5,3
+2018-08-23,2,Solo Leisure,no,1,1,1,5,1,1,1
+2018-08-23,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-08-22,3,Solo Leisure,yes,1,4,3,1,1,1,3
+2018-08-22,2,Business,no,1,3,2,1,1,1,1
+2018-08-21,2,Business,yes,2,3,3,2,2,3,2
+2018-08-21,9,Solo Leisure,yes,5,5,4,3,5,4,4
+2018-08-19,9,Solo Leisure,yes,4,4,5,3,5,5,5
+2018-08-19,1,Family Leisure,no,1,1,3,3,1,2,1
+2018-08-17,10,Family Leisure,yes,5,5,5,5,5,5,5
+2018-08-16,1,Business,no,1,1,1,1,1,1,1
+2018-08-16,1,Solo Leisure,no,3,2,3,4,1,4,1
+2018-08-15,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-08-14,2,Solo Leisure,no,3,3,3,4,1,2,1
+2018-08-14,3,Family Leisure,no,3,3,3,3,2,2,2
+2018-08-13,7,Solo Leisure,yes,4,5,3,4,1,2,3
+2018-08-13,3,Family Leisure,no,4,4,3,3,1,2,2
+2018-08-13,1,Solo Leisure,no,1,5,3,3,1,2,1
+2018-08-12,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-08-12,3,Business,no,1,1,3,5,1,5,3
+2018-08-11,1,Business,no,1,1,1,3,1,2,1
+2018-08-09,1,Family Leisure,no,1,2,3,3,1,2,1
+2018-08-09,2,Family Leisure,no,3,3,3,3,1,2,3
+2018-08-07,3,Solo Leisure,no,1,1,1,1,2,1,3
+2018-08-06,4,Solo Leisure,no,2,1,1,1,2,1,2
+2018-08-06,8,Business,yes,5,4,4,5,5,5,4
+2018-08-05,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-08-05,2,Business,no,1,1,1,1,1,3,1
+2018-08-04,1,Solo Leisure,no,1,1,1,1,1,1,1
+2018-08-04,3,Family Leisure,no,2,4,3,3,1,2,3
+2018-07-31,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-07-31,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-07-31,8,Business,yes,4,4,3,2,3,2,4
+2018-07-30,10,Family Leisure,yes,4,5,4,5,3,2,4
+2018-07-30,6,Couple Leisure,no,2,4,3,3,3,3,2
+2018-07-30,1,Business,no,1,1,1,1,1,1,1
+2018-07-29,1,Family Leisure,no,3,2,2,3,2,2,1
+2018-07-29,1,Family Leisure,no,3,1,1,5,1,2,1
+2018-07-27,10,Business,yes,4,5,5,5,4,4,4
+2018-07-23,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-07-23,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-07-23,1,Business,no,1,1,3,3,1,2,1
+2018-07-23,1,Business,no,3,1,1,1,1,2,1
+2018-07-22,1,Family Leisure,no,4,1,4,4,2,2,1
+2018-07-21,2,Business,no,4,4,3,4,1,3,2
+2018-07-20,9,Family Leisure,yes,3,4,3,3,4,2,4
+2018-07-20,3,Solo Leisure,no,2,3,2,2,1,2,1
+2018-07-19,1,Family Leisure,no,1,3,1,1,1,1,1
+2018-07-18,1,Solo Leisure,no,3,1,3,3,1,2,1
+2018-07-18,9,Family Leisure,yes,4,5,4,3,5,4,4
+2018-07-17,1,Solo Leisure,no,1,2,2,1,2,1,1
+2018-07-16,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-07-15,9,Solo Leisure,yes,4,5,3,3,5,3,5
+2018-07-14,9,Solo Leisure,yes,5,5,4,4,5,2,4
+2018-07-10,1,Couple Leisure,no,1,2,1,1,4,1,1
+2018-07-06,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-07-06,1,Couple Leisure,no,1,1,1,3,2,1,1
+2018-07-03,3,Family Leisure,no,5,5,3,3,3,2,2
+2018-07-03,3,Family Leisure,no,5,3,1,4,3,5,1
+2018-07-03,9,Solo Leisure,yes,4,4,5,5,4,5,4
+2018-07-03,7,Business,yes,3,4,2,3,4,1,3
+2018-06-29,1,Family Leisure,no,3,5,2,1,1,2,1
+2018-06-28,1,Family Leisure,no,2,1,1,4,1,3,2
+2018-06-26,10,Solo Leisure,yes,3,5,3,5,3,1,3
+2018-06-26,1,Family Leisure,no,1,1,3,3,3,3,1
+2018-06-25,1,Solo Leisure,no,1,1,3,3,1,1,1
+2018-06-25,10,Couple Leisure,yes,5,5,5,5,5,2,4
+2018-06-24,2,Business,no,1,3,2,4,1,1,1
+2018-06-23,1,Family Leisure,no,1,1,3,3,1,2,1
+2018-06-21,9,Solo Leisure,yes,5,5,5,5,5,5,5
+2018-06-20,10,Solo Leisure,yes,3,5,5,5,5,1,5
+2018-06-19,3,Solo Leisure,no,3,2,3,3,2,2,3
+2018-06-19,2,Business,no,3,4,2,1,1,2,1
+2018-06-18,10,Solo Leisure,yes,5,5,5,3,5,2,5
+2018-06-18,1,Solo Leisure,no,2,1,3,3,1,1,2
+2018-06-17,9,Family Leisure,yes,4,5,4,4,4,5,5
+2018-06-16,10,Couple Leisure,yes,5,5,5,5,5,2,5
+2018-06-16,10,Couple Leisure,yes,5,5,3,3,5,2,5
+2018-06-15,2,Family Leisure,no,1,1,1,1,2,2,2
+2018-06-14,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-06-11,2,Couple Leisure,no,2,4,2,5,1,2,1
+2018-06-11,1,Solo Leisure,no,1,1,1,3,1,2,1
+2018-06-10,4,Couple Leisure,no,3,3,3,3,2,3,3
+2018-06-08,3,Solo Leisure,no,1,5,5,5,1,5,1
+2018-06-08,1,Solo Leisure,no,3,4,3,3,4,2,1
+2018-06-08,8,Solo Leisure,yes,3,4,4,4,2,2,4
+2018-06-08,10,Business,yes,5,5,5,5,5,5,5
+2018-06-07,1,Couple Leisure,yes,3,3,3,3,2,2,1
+2018-06-07,1,Business,no,2,2,2,1,1,1,1
+2018-06-07,1,Couple Leisure,no,2,3,2,3,1,3,2
+2018-06-07,2,Solo Leisure,no,1,3,1,1,4,1,1
+2018-06-05,1,Business,no,1,1,3,3,1,2,1
+2018-06-05,1,Family Leisure,no,1,1,3,3,1,2,1
+2018-06-03,2,Business,no,4,4,3,3,1,2,2
+2018-06-01,10,Couple Leisure,yes,5,5,5,5,5,5,5
+2018-06-01,5,Business,no,3,5,4,5,5,3,1
+2018-05-31,9,Family Leisure,yes,4,4,5,4,3,2,5
+2018-05-31,2,Family Leisure,yes,1,3,3,3,4,2,5
+2018-05-29,1,Couple Leisure,no,2,1,2,3,1,2,1
+2018-05-29,2,Couple Leisure,no,3,1,3,3,1,2,2
+2018-05-28,4,Couple Leisure,no,1,2,1,3,4,2,2
+2018-05-27,3,Solo Leisure,no,3,3,3,4,1,4,2
+2018-05-26,1,Solo Leisure,no,1,3,3,1,1,1,1
+2018-05-26,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-05-26,1,Solo Leisure,no,1,1,3,3,1,1,1
+2018-05-25,3,Couple Leisure,no,2,2,2,2,2,2,2
+2018-05-25,8,Family Leisure,yes,3,3,3,3,1,2,3
+2018-05-24,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-05-24,1,Couple Leisure,no,3,2,3,3,1,2,1
+2018-05-23,8,Family Leisure,yes,3,5,4,5,5,2,3
+2018-05-23,1,Solo Leisure,no,2,2,1,1,1,3,1
+2018-05-22,2,Business,no,1,1,1,1,1,1,1
+2018-05-22,1,Family Leisure,no,3,3,3,4,3,4,3
+2018-05-21,1,Solo Leisure,no,3,3,3,3,2,2,2
+2018-05-20,1,Business,no,1,1,3,2,1,3,1
+2018-05-20,10,Couple Leisure,yes,5,5,5,5,5,5,5
+2018-05-19,2,Business,no,2,2,1,1,1,1,1
+2018-05-18,1,Solo Leisure,no,3,3,3,3,1,2,1
+2018-05-18,4,Business,no,3,2,2,3,3,1,2
+2018-05-17,1,Solo Leisure,no,2,2,3,3,2,2,2
+2018-05-17,10,Family Leisure,yes,4,5,5,5,5,5,5
+2018-05-17,2,Solo Leisure,no,3,4,3,3,1,4,1
+2018-05-16,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-05-16,2,Solo Leisure,no,1,2,1,3,1,2,2
+2018-05-14,7,Business,no,5,5,5,5,5,2,5
+2018-05-12,9,Business,yes,4,5,4,3,4,2,5
+2018-05-11,1,Couple Leisure,no,1,3,3,3,1,2,1
+2018-05-11,1,Business,no,1,1,2,2,1,1,2
+2018-05-09,8,Family Leisure,yes,4,5,4,5,4,2,4
+2018-05-08,1,Solo Leisure,no,1,1,3,1,1,2,1
+2018-05-08,6,Couple Leisure,yes,3,2,3,4,2,2,3
+2018-05-07,1,Couple Leisure,no,2,3,3,3,1,2,1
+2018-05-07,1,Family Leisure,no,3,3,3,3,3,2,1
+2018-05-06,5,Business,no,1,4,3,2,5,2,4
+2018-05-06,1,Couple Leisure,no,1,1,2,4,1,2,1
+2018-05-06,1,Business,no,3,3,3,3,1,2,1
+2018-05-05,5,Couple Leisure,no,2,1,5,5,4,2,3
+2018-05-03,10,Couple Leisure,yes,4,5,4,3,5,2,5
+2018-05-03,1,Solo Leisure,no,1,1,1,1,1,1,2
+2018-04-30,9,Solo Leisure,yes,5,5,5,5,4,2,5
+2018-04-30,1,Family Leisure,no,1,1,2,2,1,2,1
+2018-04-29,1,Family Leisure,no,3,3,3,3,3,2,1
+2018-04-29,1,Couple Leisure,no,1,1,1,3,1,2,1
+2018-04-27,8,Solo Leisure,yes,5,5,4,3,5,2,5
+2018-04-24,1,Business,no,1,4,1,4,3,2,1
+2018-04-22,2,Family Leisure,no,3,1,1,3,3,1,1
+2018-04-20,1,Business,no,3,4,4,4,1,2,1
+2018-04-20,10,Couple Leisure,yes,5,5,5,5,5,5,5
+2018-04-19,2,Couple Leisure,no,2,3,3,3,3,2,2
+2018-04-19,10,Solo Leisure,yes,5,5,5,3,5,2,5
+2018-04-17,1,Business,no,1,4,3,3,1,2,1
+2018-04-16,10,Family Leisure,yes,5,5,5,5,5,5,5
+2018-04-16,1,Couple Leisure,no,1,1,3,3,1,2,1
+2018-04-16,2,Solo Leisure,no,1,2,3,1,1,2,2
+2018-04-14,3,Business,no,1,1,3,3,2,2,3
+2018-04-14,9,Business,yes,3,5,5,4,5,2,3
+2018-04-13,4,Solo Leisure,no,2,2,3,4,3,3,2
+2018-04-13,3,Business,no,2,3,2,3,4,2,1
+2018-04-12,1,Business,no,1,1,1,1,1,1,1
+2018-04-11,1,Family Leisure,no,2,2,3,3,1,1,1
+2018-04-11,2,Solo Leisure,no,3,2,3,3,1,2,3
+2018-04-11,5,Couple Leisure,no,3,3,3,5,5,4,3
+2018-04-10,2,Business,no,3,4,3,2,3,4,1
+2018-04-09,10,Family Leisure,yes,5,5,3,5,5,2,4
+2018-04-05,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-04-02,1,Family Leisure,no,1,1,3,1,1,2,1
+2018-03-31,10,Solo Leisure,yes,5,5,4,4,5,3,5
+2018-03-30,10,Couple Leisure,yes,5,5,5,4,4,2,5
+2018-03-29,1,Solo Leisure,no,3,2,2,2,2,2,3
+2018-03-27,1,Family Leisure,no,1,1,1,1,1,1,1
+2018-03-26,7,Couple Leisure,yes,2,4,3,5,5,2,2
+2018-03-26,1,Solo Leisure,no,1,1,1,2,1,1,1
+2018-03-26,1,Business,no,1,4,2,2,3,3,1
+2018-03-23,3,Solo Leisure,no,1,4,3,3,2,1,1
+2018-03-23,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-03-22,5,Business,no,3,4,1,1,2,3,3
+2018-03-20,2,Business,no,3,2,1,3,1,2,2
+2018-03-17,1,Family Leisure,no,1,1,3,3,1,2,1
+2018-03-16,1,Couple Leisure,no,3,3,3,3,1,2,1
+2018-03-14,3,Business,no,4,4,4,3,2,4,4
+2018-03-13,1,Couple Leisure,no,1,5,2,1,1,3,2
+2018-03-12,1,Solo Leisure,no,2,2,2,2,2,2,1
+2018-03-12,1,Couple Leisure,no,1,1,3,3,1,2,1
+2018-03-10,10,Couple Leisure,yes,4,4,3,3,4,2,4
+2018-03-09,10,Family Leisure,yes,5,5,5,3,5,2,5
+2018-03-09,3,Solo Leisure,no,2,1,2,3,2,1,3
+2018-03-08,10,Family Leisure,yes,5,5,5,5,5,5,5
+2018-03-08,1,Solo Leisure,no,2,1,3,3,1,2,1
+2018-03-06,1,Solo Leisure,no,2,2,1,2,1,1,1
+2018-03-05,2,Solo Leisure,no,3,2,3,4,3,3,1
+2018-03-05,1,Solo Leisure,no,3,3,3,3,1,2,2
+2018-03-05,1,Couple Leisure,no,1,1,1,5,1,1,1
+2018-03-03,1,Business,no,1,1,1,3,1,2,1
+2018-03-03,2,Family Leisure,no,1,2,1,3,1,2,1
+2018-03-03,9,Family Leisure,yes,4,5,4,5,5,5,5
+2018-02-28,1,Solo Leisure,no,3,3,3,3,1,2,1
+2018-02-27,1,Business,no,2,3,1,1,1,1,1
+2018-02-26,1,Solo Leisure,no,3,3,3,3,1,2,1
+2018-02-23,1,Business,no,1,3,3,3,1,2,1
+2018-02-22,1,Solo Leisure,no,1,1,3,3,1,2,1
+2018-02-08,3,Solo Leisure,no,4,4,3,3,1,2,1
+2018-02-04,7,Solo Leisure,no,3,4,4,4,5,1,1
+2018-02-03,1,Business,no,3,3,3,1,1,1,1
+2018-01-25,10,Business,no,5,5,5,5,5,5,5
+2018-01-25,10,Family Leisure,yes,5,5,5,5,5,2,5
+2018-01-24,8,Solo Leisure,yes,3,5,3,5,5,5,5
+2018-01-23,1,Couple Leisure,no,3,4,3,4,1,2,1
+2018-01-23,8,Solo Leisure,yes,4,5,4,3,4,2,3
+2018-01-22,10,Solo Leisure,yes,5,5,5,3,5,2,5
+2018-01-20,2,Business,no,2,3,1,1,1,2,1
+2018-01-19,1,Couple Leisure,no,3,3,2,4,2,2,1
+2018-01-19,10,Business,yes,5,5,4,4,5,5,5
+2018-01-18,1,Business,no,2,1,3,1,1,1,1
+2018-01-17,10,Solo Leisure,yes,5,5,3,5,5,4,5
+2018-01-14,2,Family Leisure,no,1,1,1,1,1,1,3
+2018-01-14,1,Family Leisure,no,1,1,1,3,1,2,1
+2018-01-13,1,Family Leisure,no,2,4,2,2,1,3,1
+2018-01-11,1,Solo Leisure,no,3,2,3,3,1,2,1
+2018-01-08,1,Family Leisure,no,4,4,4,5,1,5,2
+2018-01-08,3,Couple Leisure,no,3,3,3,3,2,1,2
+2018-01-08,1,Family Leisure,no,1,1,3,1,1,2,1
+2018-01-07,1,Couple Leisure,no,1,1,1,1,1,1,1
+2018-01-04,1,Family Leisure,no,4,1,3,3,3,2,1
+2018-01-03,1,Solo Leisure,no,4,5,3,3,1,5,1
+2018-01-03,4,Solo Leisure,no,3,4,3,3,1,3,2
+2018-01-02,6,Family Leisure,yes,4,5,5,5,3,3,4
+2018-01-01,7,Couple Leisure,yes,4,4,3,3,5,2,5
+2017-12-29,8,Solo Leisure,yes,4,4,3,3,5,2,4
+2017-12-28,3,Couple Leisure,no,3,3,1,3,2,3,3
+2017-12-28,1,Solo Leisure,no,2,1,3,3,1,2,1
+2017-12-27,7,Business,yes,4,3,2,4,4,2,3
+2017-12-27,1,Family Leisure,no,1,1,1,1,1,1,1
+2017-12-26,1,Couple Leisure,no,3,1,1,3,1,3,1
+2017-12-26,10,Couple Leisure,yes,4,5,4,3,5,2,5
+2017-12-25,1,Family Leisure,no,1,1,3,3,1,2,1
+2017-12-24,1,Couple Leisure,no,1,1,1,1,1,1,1
+2017-12-22,6,Business,no,2,1,2,4,5,3,3
+2017-12-21,7,Solo Leisure,yes,3,4,4,5,4,3,3
+2017-12-20,10,Solo Leisure,yes,4,5,5,3,5,4,5
+2017-12-17,5,Couple Leisure,no,3,1,3,3,2,1,3
+2017-12-12,2,Family Leisure,no,3,4,1,3,5,5,1
+2017-12-11,8,Business,yes,5,5,5,4,4,1,5
+2017-12-11,6,Family Leisure,yes,3,2,1,3,3,2,2
+2017-12-09,1,Family Leisure,no,1,1,1,3,1,2,1
+2017-12-09,9,Family Leisure,yes,4,5,3,5,4,4,5
+2017-12-08,10,Solo Leisure,yes,5,5,5,5,5,2,5
+2017-12-07,10,Couple Leisure,yes,5,5,5,5,5,2,5
+2017-12-04,9,Solo Leisure,yes,3,5,4,2,5,4,3
+2017-12-02,1,Business,no,1,1,3,3,1,2,2
+2017-11-30,2,Family Leisure,no,2,2,1,2,2,2,3
+2017-11-27,1,Solo Leisure,no,1,1,1,1,1,1,1
+2017-11-21,2,Solo Leisure,no,3,1,1,4,1,2,1
+2017-11-18,1,Solo Leisure,no,1,1,1,1,1,1,1
+2017-11-18,1,Solo Leisure,no,1,1,1,1,1,1,1
+2017-11-14,5,Solo Leisure,no,3,1,3,3,5,2,3
+2017-11-10,7,Business,yes,3,2,3,3,3,2,3
+2017-11-10,8,Business,yes,3,4,4,3,4,5,3
+2017-11-07,1,Solo Leisure,no,1,1,3,3,1,2,1
+2017-11-06,8,Solo Leisure,yes,4,5,5,5,3,4,4
+2017-11-03,5,Solo Leisure,no,2,3,1,3,3,3,3
+2017-11-03,9,Business,yes,4,5,4,3,5,2,4
+2017-11-02,7,Business,yes,4,3,4,4,4,4,4
+2017-10-30,1,Family Leisure,no,3,1,2,4,1,1,1
+2017-10-30,1,Family Leisure,no,3,3,3,3,3,2,3
+2017-10-27,9,Solo Leisure,yes,5,5,5,5,4,5,5
+2017-10-25,1,Couple Leisure,no,1,4,3,2,4,3,1
+2017-10-24,1,Family Leisure,no,1,1,2,4,1,2,1
+2017-10-24,8,Couple Leisure,yes,4,4,4,3,1,4,3
+2017-10-24,3,Solo Leisure,no,4,4,4,4,1,2,1
+2017-10-23,1,Couple Leisure,no,1,2,3,2,1,2,1
+2017-10-23,2,Couple Leisure,no,3,1,4,4,4,4,1
+2017-10-23,1,Business,no,2,1,3,3,1,2,1
+2017-10-22,2,Business,no,5,3,2,1,1,1,1
+2017-10-21,8,Family Leisure,yes,4,5,4,2,4,2,4
+2017-10-20,10,Couple Leisure,yes,4,5,4,5,5,2,5
+2017-10-19,1,Business,no,3,1,2,3,3,3,3
+2017-10-18,1,Family Leisure,no,1,1,2,1,2,2,1
+2017-10-17,6,Couple Leisure,yes,3,4,3,3,3,2,3
+2017-10-16,2,Business,no,1,3,1,1,1,1,1
+2017-10-14,3,Business,no,4,3,3,3,3,2,2
+2017-10-12,8,Family Leisure,yes,4,5,4,5,5,3,5
+2017-10-11,9,Solo Leisure,yes,1,5,3,3,4,2,3
+2017-10-10,1,Business,no,1,1,1,1,1,1,1
+2017-10-08,10,Couple Leisure,yes,4,5,4,3,5,2,5
+2017-10-04,10,Couple Leisure,yes,5,5,5,5,5,2,5
+2017-10-04,3,Business,no,2,3,1,1,2,1,2
+2017-10-03,8,Solo Leisure,yes,4,5,4,3,5,2,4
+2017-10-03,2,Solo Leisure,no,2,2,3,3,1,1,2
+2017-10-02,10,Couple Leisure,yes,4,5,5,5,4,2,5
+2017-10-02,1,Solo Leisure,no,1,1,2,1,3,2,1
+2017-10-01,3,Family Leisure,no,5,3,4,3,1,2,2
+2017-09-30,10,Solo Leisure,yes,3,4,2,3,5,2,5
+2017-09-25,1,Business,no,3,3,3,3,1,2,1
+2017-09-21,7,Business,yes,5,3,2,3,4,2,4
+2017-09-19,1,Solo Leisure,yes,1,1,3,5,1,4,1
+2017-09-19,9,Business,yes,4,4,4,4,5,4,5
+2017-09-15,1,Couple Leisure,no,1,1,1,1,1,1,1
+2017-09-14,7,Solo Leisure,yes,4,4,4,3,4,2,4
+2017-09-13,1,Business,no,1,3,1,1,1,1,1
+2017-09-11,9,Solo Leisure,yes,4,5,5,5,4,2,5
+2017-09-08,8,Business,yes,4,4,4,4,4,2,4
+2017-09-08,9,Family Leisure,yes,4,5,5,3,5,2,5
+2017-09-07,3,Family Leisure,no,3,5,1,2,3,2,1
+2017-09-06,1,Family Leisure,no,1,1,1,1,1,1,1
+2017-09-05,1,Solo Leisure,no,5,1,1,3,1,2,1
+2017-09-02,10,Solo Leisure,yes,5,5,5,3,5,5,5
+2017-09-02,1,Business,no,1,1,3,3,3,2,1
+2017-08-31,5,Solo Leisure,yes,2,2,3,4,3,2,3
+2017-08-30,1,Solo Leisure,no,3,3,3,3,1,2,1
+2017-08-30,3,Business,no,3,2,1,2,3,2,2
+2017-08-27,1,Couple Leisure,no,3,3,2,2,3,2,1
+2017-08-26,8,Solo Leisure,yes,5,4,4,4,5,4,5
+2017-08-22,2,Family Leisure,no,4,5,2,1,2,1,1
+2017-08-22,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2017-08-20,8,Solo Leisure,yes,3,3,1,2,4,2,4
+2017-08-17,1,Business,no,2,2,1,3,1,1,1
+2017-08-17,1,Couple Leisure,no,2,2,2,3,1,1,1
+2017-08-16,5,Family Leisure,no,3,4,4,5,1,5,2
+2017-08-16,1,Solo Leisure,no,1,1,1,3,1,1,1
+2017-08-12,7,Business,yes,4,5,4,4,1,2,3
+2017-08-11,1,Family Leisure,no,3,3,3,3,1,2,1
+2017-08-09,10,Couple Leisure,yes,5,5,5,3,5,2,5
+2017-08-09,9,Couple Leisure,yes,2,5,4,5,4,2,5
+2017-08-08,1,Solo Leisure,no,1,2,2,2,2,1,1
+2017-08-07,2,Business,no,1,1,3,3,2,2,1
+2017-08-06,1,Solo Leisure,no,1,1,1,2,1,2,1
+2017-08-02,2,Solo Leisure,no,3,1,3,3,1,2,2
+2017-08-01,1,Solo Leisure,no,1,1,3,3,1,1,1
+2017-07-30,1,Solo Leisure,no,1,4,2,2,1,2,2
+2017-07-30,2,Business,no,3,2,1,3,1,2,1
+2017-07-28,4,Business,yes,4,5,3,5,1,4,1
+2017-07-27,1,Solo Leisure,no,2,1,3,3,1,2,1
+2017-07-25,1,Business,no,1,1,3,3,1,2,1
+2017-07-19,1,Family Leisure,no,1,1,2,2,1,2,1
+2017-07-18,1,Couple Leisure,no,1,1,1,1,1,1,1
+2017-07-17,2,Business,no,4,3,2,1,3,1,2
+2017-07-17,8,Solo Leisure,yes,4,4,3,3,2,2,4
+2017-07-17,1,Solo Leisure,no,3,4,1,3,3,2,4
+2017-07-16,1,Solo Leisure,no,3,3,3,3,1,2,1
+2017-07-15,1,Business,no,3,2,3,3,1,1,1
+2017-07-15,10,Solo Leisure,yes,3,5,3,3,5,2,5
+2017-07-13,10,Couple Leisure,yes,4,5,5,5,5,2,5
+2017-07-13,7,Business,yes,4,3,3,4,3,3,4
+2017-07-13,1,Couple Leisure,no,1,1,1,2,1,1,1
+2017-07-12,1,Family Leisure,no,1,1,1,1,1,1,1
+2017-07-11,1,Couple Leisure,no,3,1,1,3,3,3,2
+2017-07-11,1,Family Leisure,no,5,1,4,1,1,2,2
+2017-07-10,8,Solo Leisure,yes,4,5,4,3,5,2,5
+2017-07-09,5,Solo Leisure,yes,3,1,3,4,2,2,3
+2017-07-08,3,Couple Leisure,no,2,2,2,3,1,2,1
+2017-07-06,2,Solo Leisure,no,3,2,1,3,1,1,3
+2017-07-06,10,Couple Leisure,yes,4,5,5,5,5,2,5
+2017-07-05,10,Family Leisure,yes,5,5,5,5,5,5,5
+2017-07-03,10,Family Leisure,yes,5,5,5,5,4,5,5
+2017-07-01,4,Couple Leisure,no,3,1,3,3,3,2,3
+2017-06-30,10,Family Leisure,yes,5,5,5,5,5,5,5
+2017-06-29,10,Family Leisure,yes,5,5,3,4,5,3,5
+2017-06-29,3,Family Leisure,no,3,4,3,5,3,2,3
+2017-06-27,1,Solo Leisure,no,1,1,1,3,1,1,1
+2017-06-25,1,Business,no,1,2,1,1,1,2,1
+2017-06-23,3,Business,no,4,1,4,3,2,3,2
+2017-06-23,8,Family Leisure,yes,3,5,3,3,5,2,5
+2017-06-22,2,Couple Leisure,no,1,1,2,2,1,2,1
+2017-06-19,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2017-06-16,3,Couple Leisure,no,3,1,3,3,1,2,3
+2017-06-16,9,Couple Leisure,yes,4,5,5,5,5,2,4
+2017-06-03,8,Solo Leisure,yes,5,5,5,5,4,2,4
+2017-06-03,2,Family Leisure,no,1,3,3,3,1,1,1
+2017-06-02,2,Solo Leisure,no,3,4,3,4,2,2,2
+2017-06-02,1,Family Leisure,no,3,5,3,3,1,1,1
+2017-06-02,10,Solo Leisure,yes,4,5,5,3,5,2,5
+2017-06-01,1,Solo Leisure,no,2,4,3,3,1,2,1
+2017-06-01,1,Solo Leisure,no,1,1,1,1,2,1,1
+2017-05-31,3,Family Leisure,no,3,3,3,3,1,2,2
+2017-05-27,10,Solo Leisure,yes,5,5,5,5,4,5,4
+2017-05-25,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2017-05-22,10,Solo Leisure,yes,5,4,3,3,5,2,5
+2017-05-22,1,Solo Leisure,no,1,1,3,2,1,1,1
+2017-05-21,1,Couple Leisure,no,1,1,1,1,1,1,1
+2017-05-20,1,Couple Leisure,no,3,4,3,3,1,2,1
+2017-05-18,9,Family Leisure,yes,3,5,3,3,3,2,3
+2017-05-16,10,Business,yes,5,5,5,5,5,5,5
+2017-05-15,4,Couple Leisure,no,4,5,5,5,4,2,3
+2017-05-15,5,Couple Leisure,no,4,1,5,5,2,2,2
+2017-05-14,3,Couple Leisure,no,1,3,2,3,2,3,2
+2017-05-14,3,Family Leisure,no,2,5,5,4,3,1,3
+2017-05-12,10,Solo Leisure,yes,4,5,5,5,5,3,5
+2017-05-09,4,Couple Leisure,no,4,4,4,3,1,4,3
+2017-05-07,1,Business,no,1,4,4,4,1,2,1
+2017-05-06,8,Business,yes,4,4,2,1,4,1,5
+2017-05-05,1,Business,no,2,2,2,3,1,3,1
+2017-05-02,2,Couple Leisure,no,1,1,3,3,1,2,1
+2017-04-24,1,Business,no,1,1,1,3,1,2,1
+2017-04-23,3,Business,no,4,4,4,4,1,3,1
+2017-04-22,1,Business,no,2,1,1,1,1,2,1
+2017-04-21,10,Business,yes,5,5,3,5,5,5,5
+2017-04-10,1,Solo Leisure,no,1,1,3,3,1,2,1
+2017-04-10,10,Business,yes,5,5,3,3,5,2,5
+2017-04-10,3,Family Leisure,no,4,4,2,4,3,4,2
+2017-04-09,1,Solo Leisure,no,1,1,1,1,1,1,1
+2017-04-08,1,Family Leisure,no,1,3,1,3,3,2,1
+2017-04-08,1,Business,no,3,3,3,5,1,2,1
+2017-04-07,1,Couple Leisure,no,4,4,3,3,1,2,1
+2017-04-07,2,Couple Leisure,no,1,1,1,1,1,1,1
+2017-04-07,9,Family Leisure,yes,4,5,4,5,5,5,5
+2017-04-06,2,Couple Leisure,no,4,2,1,4,2,1,2
+2017-03-30,1,Couple Leisure,no,1,1,1,1,1,1,1
+2017-03-29,9,Solo Leisure,yes,4,5,5,3,5,2,5
+2017-03-27,4,Solo Leisure,yes,4,4,4,2,1,2,4
+2017-03-26,1,Family Leisure,no,3,2,3,3,1,2,1
+2017-03-24,1,Solo Leisure,no,3,3,1,1,1,3,1
+2017-03-23,2,Couple Leisure,no,1,5,3,3,1,2,1
+2017-03-22,9,Family Leisure,yes,5,5,5,5,5,1,5
+2017-03-21,10,Family Leisure,yes,5,5,5,5,5,2,5
+2017-03-20,3,Solo Leisure,no,1,3,3,3,1,2,2
+2017-03-19,3,Couple Leisure,no,3,2,2,5,5,2,3
+2017-03-14,1,Business,no,2,3,3,3,2,2,2
+2017-03-11,9,Business,yes,3,5,4,5,5,2,4
+2017-03-06,2,Solo Leisure,no,2,1,3,3,2,2,1
+2017-03-03,10,Solo Leisure,yes,5,5,4,4,4,5,5
+2017-03-03,10,Solo Leisure,yes,4,4,5,4,4,4,5
+2017-03-01,1,Solo Leisure,no,3,1,1,3,1,1,1
+2017-02-28,7,Solo Leisure,yes,4,5,3,3,4,3,4
+2017-02-24,8,Solo Leisure,yes,3,3,3,4,4,4,4
+2017-02-23,1,Business,yes,3,4,3,3,1,2,5
+2017-02-22,2,Solo Leisure,no,2,1,1,3,1,2,2
+2017-02-21,3,Business,no,3,4,2,3,1,2,3
+2017-02-16,1,Couple Leisure,no,2,1,3,3,1,1,1
+2017-02-13,1,Solo Leisure,no,1,5,1,1,1,2,1
+2017-02-08,1,Family Leisure,no,5,2,2,3,1,1,3
+2017-02-04,2,Solo Leisure,no,3,4,3,2,1,1,1
+2017-01-31,8,Couple Leisure,yes,4,4,3,3,4,4,4
+2017-01-28,2,Solo Leisure,no,2,3,3,3,3,2,1
+2017-01-28,1,Solo Leisure,no,1,2,2,1,2,1,2
+2017-01-23,1,Couple Leisure,no,3,3,3,3,1,2,1
+2017-01-23,2,Solo Leisure,no,3,3,2,3,1,1,1
+2017-01-22,8,Business,yes,5,5,5,4,5,2,5
+2017-01-21,10,Solo Leisure,yes,4,5,5,5,4,2,5
+2017-01-21,1,Solo Leisure,no,1,1,3,3,1,2,1
+2017-01-14,3,Business,no,4,1,1,4,1,3,1
+2017-01-13,2,Solo Leisure,no,3,3,3,3,1,2,1
+2017-01-13,1,Couple Leisure,no,1,2,1,1,1,1,1
+2017-01-13,10,Solo Leisure,yes,5,5,5,5,5,5,5
+2017-01-11,2,Business,no,4,4,4,4,3,4,3
+2017-01-09,1,Solo Leisure,no,1,1,1,3,1,2,1
+2017-01-09,3,Business,no,3,4,3,3,1,2,3
+2017-01-06,8,Family Leisure,yes,4,3,3,3,5,4,5
+2017-01-05,9,Solo Leisure,yes,4,5,4,4,3,2,5
+2017-01-05,1,Couple Leisure,no,1,2,4,1,1,2,1
+2017-01-04,1,Family Leisure,no,2,3,2,3,1,2,1
+2017-01-04,3,Solo Leisure,no,1,2,1,2,3,2,1
+2017-01-04,10,Solo Leisure,yes,5,5,5,5,5,2,5
+2017-01-02,4,Solo Leisure,yes,3,1,3,4,2,2,4
+2016-12-12,1,Family Leisure,no,1,2,2,1,1,3,1
+2016-12-12,8,Couple Leisure,yes,4,5,4,5,4,4,4
+2016-12-10,10,Solo Leisure,yes,4,5,3,3,5,2,4
+2016-12-02,9,Business,yes,4,5,3,4,4,2,5
+2016-12-01,9,Solo Leisure,yes,4,5,3,3,5,2,5
+2016-12-01,9,Family Leisure,yes,4,5,4,5,5,5,4
+2016-11-30,10,Solo Leisure,yes,4,5,3,3,5,2,5
+2016-11-27,10,Couple Leisure,yes,4,5,5,5,5,5,5
+2016-11-27,4,Family Leisure,no,2,4,2,1,1,1,3
+2016-11-24,2,Solo Leisure,no,2,3,3,3,3,2,1
+2016-11-16,6,Business,yes,4,5,1,5,5,1,4
+2016-11-13,10,Business,yes,5,5,4,4,5,4,5
+2016-11-13,1,Couple Leisure,no,2,1,1,3,1,2,1
+2016-11-07,8,Family Leisure,yes,4,4,3,5,4,4,5
+2016-11-03,9,Solo Leisure,yes,4,5,5,4,4,2,5

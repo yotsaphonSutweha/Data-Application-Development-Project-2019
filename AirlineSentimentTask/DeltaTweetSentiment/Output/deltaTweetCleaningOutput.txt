@@ -1,0 +1,17 @@
+Dataset instances: 2220
+Airline sentiment column instances: 2220
+Airline sentiment column head:
+0    positive
+1     neutral
+2     neutral
+3    negative
+4    negative
+Name: airline_sentiment, dtype: object
+---------Airline sentiment description---------
+count         2220
+unique           3
+top       negative
+freq           953
+Name: airline_sentiment, dtype: object
+-----------------------------------------------
+As part of data pre-processing, airline sentiment tweet went through data cleaning process, as the result no missing values are present as the number of instances of the dataset matches the number of intances of the airline_sentitment column, also the type of the attribute for each intance is the same. To conclude, there is no need for additional cleaning process

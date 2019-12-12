@@ -1,0 +1,10 @@
+import pandas as pd
+df = pd.read_csv('../skytrax_2019-2016_dataset.csv')
+df.drop('review_title', axis=1, inplace=True)
+df.drop('reviewer_name', axis=1, inplace=True)
+df.drop('review_comment', axis=1, inplace=True)
+df.drop('aircraft', axis=1, inplace=True)
+df.drop('route', axis=1, inplace=True)
+df.drop('date_flown', axis=1, inplace=True)
+df.drop('seat_type', axis=1, inplace=True)
+df.to_csv(r'./Output/skytrax_2016-2019_data_selected_dataset.csv', index=None, header=True)
