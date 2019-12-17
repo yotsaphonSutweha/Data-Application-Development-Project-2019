@@ -15,6 +15,7 @@ for line in sys.stdin:
     else:
         overallNeutral = overallNeutral + 1
 
+print('%s\t%s' % ("Sentiment", "Count"))
 print('%s\t%s' % ("Positive", overallPositve))
 print('%s\t%s' % ("Negative", overallNegative))
 print('%s\t%s' % ("Neutral", overallNeutral))

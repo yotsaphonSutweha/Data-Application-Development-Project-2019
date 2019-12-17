@@ -11,6 +11,8 @@ for line in sys.stdin:
         numNegative = numNegative + 1
     else:
         numNeutral = numNeutral + 1
+        
+print('%s\t%s' % ("Sentiment", "Count"))
 print("%s\t%s" % ("Positive", numPositive))
 print("%s\t%s" % ("Negative", numNegative))
 print("%s\t%s" % ("Neutral", numNeutral))

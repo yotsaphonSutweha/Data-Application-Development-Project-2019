@@ -1,0 +1,882 @@
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+Business no
+Business no
+"Family Leisure" no
+"Family Leisure" yes
+"Family Leisure" yes
+"Family Leisure" yes
+"Solo Leisure" no
+Business no
+"Couple Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" yes
+Business yes
+"Solo Leisure" no
+"Couple Leisure" yes
+"Couple Leisure" yes
+Business no
+Business no
+"Family Leisure" no
+"Solo Leisure" yes
+Business yes
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Family Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+"Family Leisure" no
+Business yes
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" yes
+"Family Leisure" yes
+Business yes
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Family Leisure" yes
+"Couple Leisure" no
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Couple Leisure" no
+"Family Leisure" yes
+"Family Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Family Leisure" yes
+"Couple Leisure" no
+"Family Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" yes
+Business no
+"Solo Leisure" no
+Business yes
+"Family Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+Business no
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+Business no
+"Couple Leisure" yes
+"Family Leisure" no
+"Couple Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Family Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Couple Leisure" yes
+Business no
+"Solo Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Couple Leisure" yes
+Business yes
+"Family Leisure" no
+"Family Leisure" no
+Business no
+"Couple Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+"Family Leisure" yes
+"Family Leisure" yes
+"Family Leisure" yes
+"Family Leisure" yes
+Business no
+"Solo Leisure" yes
+"Family Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+Business no
+Business no
+"Couple Leisure" yes
+"Couple Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+Business no
+Business no
+Business no
+"Solo Leisure" no
+"Family Leisure" no
+Business no
+"Couple Leisure" yes
+"Family Leisure" no
+"Couple Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+Business no
+Business no
+"Family Leisure" no
+Business no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+Business no
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Family Leisure" yes
+"Family Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+Business yes
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" yes
+"Couple Leisure" no
+Business yes
+"Solo Leisure" no
+"Solo Leisure" yes
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" yes
+"Family Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+Business no
+Business yes
+"Solo Leisure" no
+Business no
+"Family Leisure" yes
+"Family Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" yes
+"Family Leisure" no
+"Family Leisure" yes
+"Couple Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+"Family Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+Business no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+Business no
+"Couple Leisure" no
+Business yes
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+Business no
+Business yes
+Business yes
+"Solo Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+Business yes
+"Family Leisure" no
+"Family Leisure" yes
+Business no
+"Family Leisure" yes
+"Couple Leisure" yes
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+"Couple Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+Business no
+"Couple Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+Business no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" yes
+Business no
+"Couple Leisure" no
+Business no
+"Family Leisure" yes
+"Family Leisure" no
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+Business yes
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" no
+Business no
+"Family Leisure" no
+"Couple Leisure" no
+Business yes
+Business yes
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+Business no
+"Couple Leisure" no
+Business no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+"Couple Leisure" no
+Business no
+"Couple Leisure" no
+Business no
+"Solo Leisure" no
+"Family Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" yes
+Business no
+"Family Leisure" no
+"Couple Leisure" no
+Business yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+Business no
+Business yes
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Family Leisure" no
+"Family Leisure" yes
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+Business no
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+Business yes
+"Couple Leisure" no
+Business no
+"Solo Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+Business yes
+"Family Leisure" yes
+"Couple Leisure" no
+Business no
+"Family Leisure" no
+"Family Leisure" no
+Business yes
+"Solo Leisure" no
+"Family Leisure" no
+Business no
+Business no
+"Family Leisure" no
+Business no
+"Family Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+Business yes
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" yes
+Business no
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" no
+Business no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Family Leisure" yes
+"Couple Leisure" yes
+"Couple Leisure" yes
+"Family Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+Business yes
+"Couple Leisure" yes
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+"Family Leisure" no
+Business no
+"Couple Leisure" yes
+Business no
+"Family Leisure" yes
+"Family Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+Business no
+"Family Leisure" no
+"Solo Leisure" no
+Business no
+"Couple Leisure" yes
+Business no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+Business yes
+"Couple Leisure" no
+Business no
+"Family Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" yes
+"Couple Leisure" no
+"Family Leisure" no
+Business no
+"Couple Leisure" no
+Business no
+"Couple Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Solo Leisure" yes
+Business no
+"Family Leisure" no
+Business no
+"Couple Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" yes
+Business no
+"Family Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" no
+Business no
+Business yes
+"Solo Leisure" no
+Business no
+Business no
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+"Family Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+Business no
+"Family Leisure" no
+"Couple Leisure" no
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" yes
+"Family Leisure" yes
+"Solo Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+"Family Leisure" no
+"Family Leisure" yes
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+Business no
+"Family Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+Business no
+"Couple Leisure" no
+Business yes
+Business no
+"Solo Leisure" yes
+"Family Leisure" no
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" yes
+"Couple Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" no
+Business yes
+"Family Leisure" no
+"Couple Leisure" no
+"Couple Leisure" yes
+"Family Leisure" no
+"Couple Leisure" no
+Business no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Family Leisure" no
+Business yes
+"Family Leisure" yes
+"Family Leisure" no
+"Family Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" yes
+"Solo Leisure" yes
+Business no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+Business yes
+Business yes
+"Solo Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+Business yes
+Business yes
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" no
+"Family Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+Business no
+Business no
+"Family Leisure" yes
+"Couple Leisure" yes
+Business no
+"Family Leisure" no
+"Couple Leisure" yes
+Business no
+Business no
+"Family Leisure" yes
+"Solo Leisure" yes
+Business no
+"Couple Leisure" yes
+"Couple Leisure" yes
+Business no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+Business no
+Business yes
+"Solo Leisure" yes
+Business yes
+"Couple Leisure" no
+"Solo Leisure" yes
+Business no
+"Solo Leisure" yes
+Business yes
+"Family Leisure" yes
+"Family Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+Business no
+"Solo Leisure" yes
+"Solo Leisure" no
+Business no
+"Couple Leisure" no
+"Solo Leisure" yes
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+Business no
+"Couple Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+Business yes
+"Family Leisure" no
+"Couple Leisure" yes
+"Couple Leisure" yes
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+Business yes
+"Solo Leisure" no
+Business no
+"Family Leisure" no
+"Couple Leisure" no
+Business no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+Business no
+"Solo Leisure" yes
+"Couple Leisure" yes
+Business yes
+"Couple Leisure" no
+"Family Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" no
+"Couple Leisure" yes
+"Family Leisure" yes
+"Family Leisure" yes
+"Couple Leisure" no
+"Family Leisure" yes
+"Family Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+Business no
+Business no
+"Family Leisure" yes
+"Couple Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+Business yes
+"Couple Leisure" no
+"Couple Leisure" no
+"Couple Leisure" no
+"Family Leisure" no
+"Solo Leisure" yes
+"Couple Leisure" no
+Business no
+Business yes
+Business no
+"Couple Leisure" no
+Business no
+Business no
+Business no
+Business yes
+"Solo Leisure" no
+Business yes
+"Family Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+Business no
+"Couple Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+"Couple Leisure" no
+"Couple Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Family Leisure" yes
+"Family Leisure" yes
+"Solo Leisure" no
+"Couple Leisure" no
+Business no
+Business yes
+"Solo Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+Business yes
+"Solo Leisure" no
+Business no
+"Couple Leisure" no
+"Solo Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" no
+Business yes
+"Solo Leisure" yes
+"Solo Leisure" no
+Business no
+"Solo Leisure" no
+"Couple Leisure" no
+"Solo Leisure" yes
+Business no
+"Solo Leisure" no
+Business no
+"Family Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" no
+"Family Leisure" no
+"Solo Leisure" no
+"Solo Leisure" yes
+"Solo Leisure" yes
+"Family Leisure" no
+"Couple Leisure" yes
+"Solo Leisure" yes
+Business yes
+"Solo Leisure" yes
+"Family Leisure" yes
+"Solo Leisure" yes
+"Couple Leisure" yes
+"Family Leisure" no
+"Solo Leisure" no
+Business yes
+Business yes
+"Couple Leisure" no
+"Family Leisure" yes
+"Solo Leisure" yes

@@ -1,0 +1,4 @@
+business	48
+couple leisure	50
+family leisure	62
+solo leisure	99
