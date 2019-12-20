@@ -1,7 +1,8 @@
 import pandas as pd 
 import seaborn as sns
-import matplotlib.pylab as plt
-data = pd.read_csv('../Skytrax_2016-2019_data_selection/Output/skytrax_2016-2019_data_selected_dataset.csv')
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots()
+data = pd.read_csv('./Skytrax_2016-2019_data_selection/Output/skytrax_2016-2019_data_selected_dataset.csv')
 
 catData = data[['publish_date', 'traveller_type', 'recommend']].copy()
 
@@ -32,22 +33,38 @@ print("Wifi connectivity rating missing values: {0}".format(len(wifiRatingMissin
 print("Value for money rating missing values: {0}".format(len(valueForMoneyMissingValues))) # No need
 
 # Check for outliers 
-sns.boxplot(y=data['overall_rating'])
-plt.show()
-sns.boxplot(y=data['seat_comfort_rating'])
-plt.show()
-sns.boxplot(y=data['cabin_service_rating'])
-plt.show()
-sns.boxplot(y=data['food_and_beverages_rating'])
-plt.show()
-sns.boxplot(y=data['inflight_entertainment_rating'])
-plt.show()
-sns.boxplot(y=data['ground_service_rating'])
-plt.show()
-sns.boxplot(y=data['wifi_connectivity_rating'])
-plt.show()
-sns.boxplot(y=data['value_for_money_rating'])
-plt.show()
+boxplot1 = sns.boxplot(y=data['overall_rating'])
+fig1 = boxplot1.get_figure()
+fig1.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat1.png")
+boxplot1.get_figure().clf()
+boxplot2 = sns.boxplot(y=data['seat_comfort_rating'])
+fig2 = boxplot2.get_figure()
+fig2.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat2.png")
+boxplot2.get_figure().clf()
+boxplot3 = sns.boxplot(y=data['cabin_service_rating'])
+fig3 = boxplot3.get_figure()
+fig3.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat3.png")
+boxplot3.get_figure().clf()
+boxplot4 = sns.boxplot(y=data['food_and_beverages_rating'])
+fig4 = boxplot4.get_figure()
+fig4.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat4.png")
+boxplot4.get_figure().clf()
+boxplot5 = sns.boxplot(y=data['inflight_entertainment_rating'])
+fig5 = boxplot5.get_figure()
+fig5.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat5.png")
+boxplot5.get_figure().clf()
+boxplot6 = sns.boxplot(y=data['ground_service_rating'])
+fig6 = boxplot6.get_figure()
+fig6.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat6.png")
+boxplot6.get_figure().clf()
+boxplot7 = sns.boxplot(y=data['wifi_connectivity_rating'])
+fig7 = boxplot7.get_figure()
+fig7.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat7.png")
+boxplot7.get_figure().clf()
+boxplot8= sns.boxplot(y=data['value_for_money_rating'])
+fig8 = boxplot8.get_figure()
+fig8.savefig("./DataPreprocessing/Output/Boxplots/check_outlier_boxploat8.png")
+boxplot8.get_figure().clf()
 # No outliers are present in the numerical values
 
 # Dealing with missing values
@@ -100,4 +117,4 @@ print('Inflight entertainment rating missing values: {0}'.format(len(inflightEnt
 print('Ground service rating missig values: {0}'.format(len(groundServiceRatingMissingValues)))
 print("Wifi connectivity rating missing values: {0}".format(len(wifiRatingMissingValues)))
 
-data.to_csv(r'./pre_processed_skytrax_dataset.csv', index=None, header=True)
+data.to_csv(r'./DataPreprocessing/Output/pre_processed_skytrax_dataset.csv', index=None, header=True)

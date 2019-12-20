@@ -1,1 +1,0 @@
-python explore.py > exploratoryResults.txt

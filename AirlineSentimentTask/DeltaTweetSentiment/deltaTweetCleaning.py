@@ -1,5 +1,5 @@
 import pandas as pd 
-dataset = pd.read_csv("../../Airline-Sentiment-2-w-AA_DELTA.csv")
+dataset = pd.read_csv("./Airline-Sentiment-2-w-AA_DELTA.csv")
 print("Dataset instances: {0}".format(len(dataset)))
 airlineSentiment = dataset['airline_sentiment']
 print("Airline sentiment column instances: {0}".format(len(airlineSentiment)))

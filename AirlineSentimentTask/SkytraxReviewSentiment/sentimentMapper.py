@@ -10,8 +10,8 @@ def readWords(filename):
             words.append(line.strip())
     return words
 
-positiveWords = readWords("./dictionaries/hu-liu-positive-words.txt")
-negativeWords = readWords("./dictionaries/hu-liu-negative-words.txt")
+positiveWords = readWords("./AirlineSentimentTask/SkytraxReviewSentiment/dictionaries/hu-liu-positive-words.txt")
+negativeWords = readWords("./AirlineSentimentTask/SkytraxReviewSentiment/dictionaries/hu-liu-negative-words.txt")
 
 commentNum = 0
 for line in sys.stdin:

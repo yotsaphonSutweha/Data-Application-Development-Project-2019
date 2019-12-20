@@ -1,8 +1,9 @@
 import pandas as pd
-dataset = pd.read_csv("../../skytrax_reviews_delta_2015_cleaning.csv")
+dataset = pd.read_csv("./skytrax_reviews_delta_2015_cleaning.csv")
 customerComments = dataset['review_comment']
 comments = []
-
+# Change the file name to deta selection
+# This also includes data selection process -> choosing on review comment column
 for comment in customerComments:
     # strip white spaces
     comment = comment.strip()

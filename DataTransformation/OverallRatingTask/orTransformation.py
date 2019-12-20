@@ -1,7 +1,7 @@
 import pandas as pd 
 import seaborn as sns
 from matplotlib import pyplot as plt
-data = pd.read_csv('../../DataPreprocessing/Output/pre_processed_skytrax_dataset.csv')
+data = pd.read_csv('./DataPreprocessing/Output/pre_processed_skytrax_dataset.csv')
 
 #-----------------2019-------------------
 nov2019 = data[data['publish_date'].str.contains('2019-11')]
@@ -99,4 +99,4 @@ OverallRatingAnalysis = {
 
 dataframe = pd.DataFrame(OverallRatingAnalysis, columns=['Month', 'Overall Rating Mean'])
 
-dataframe.to_csv(r'./Output/overall_rating_analysis_dataset.csv', index=None, header=True)
+dataframe.to_csv(r'./DataTransformation/OverallRatingTask/Output/overall_rating_analysis_dataset.csv', index=None, header=True)

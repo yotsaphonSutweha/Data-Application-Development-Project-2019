@@ -2,8 +2,8 @@ import pandas as pd
 
 skytraxSentimentResults = []
 tweetSentimentResults = []
-skytraxSentimenDataPath = '../SkytraxReviewSentiment/output/skyTrax2015SentimentReducerOutputs.txt'
-deltaTweetSentimentPath = '../DeltaTweetSentiment/Output/deltaTweetTransformationOutput.txt'
+skytraxSentimenDataPath = './AirlineSentimentTask/SkytraxReviewSentiment/output/skyTrax2015SentimentReducerOutputs.txt'
+deltaTweetSentimentPath = './AirlineSentimentTask/DeltaTweetSentiment/Output/deltaTweetTransformationOutput.txt'
 
 df1 = pd.read_csv(skytraxSentimenDataPath, delimiter="\t")
 skytraxPositive = df1['Count'][0]
@@ -24,5 +24,5 @@ table = {
 
 dataframe = pd.DataFrame(table, columns=['Sentiment', 'Skytrax sentiment score', 'Tweet sentiment score'])
 
-dataframe.to_csv(r'./Output/sentiment_analysis_table_results.csv', index=None, header=True)
+dataframe.to_csv(r'./AirlineSentimentTask/DataMining/Output/sentiment_analysis_table_results.csv', index=None, header=True)
 

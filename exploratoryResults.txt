@@ -50,7 +50,7 @@ max         10.000000  ...                5.000000
                         review_title publish_date  ...   date_flown recommend
 count                            882          882  ...          882       882
 unique                           832          575  ...           41         2
-top     "will never fly Delta again"   2018-11-18  ...  August 2019        no
+top     "will never fly Delta again"   2019-08-03  ...  August 2019        no
 freq                               9            5  ...           53       623
 
 [4 rows x 10 columns]
